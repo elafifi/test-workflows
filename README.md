@@ -14,7 +14,7 @@ This action prints "Hello World" or "Hello" + the name of a person to greet to t
 
 The time we greeted you.
 
-## Example usage
+## Example usage.
 
 uses: actions/hello-world-docker-action@v2
 with:
